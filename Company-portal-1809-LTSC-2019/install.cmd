@@ -1,0 +1,2 @@
+Dism /Online /Add-ProvisionedAppxPackage /PackagePath:%~dp0Microsoft.CompanyPortal.AppxBundle /DependencyPackagePath:%~dp0\dep\1.Appx /DependencyPackagePath:%~dp0\dep\2.Appx /DependencyPackagePath:%~dp0\dep\3.Appx /DependencyPackagePath:%~dp0\dep\4.Appx /DependencyPackagePath:%~dp0\dep\5.Appx /SkipLicense
+@pause
