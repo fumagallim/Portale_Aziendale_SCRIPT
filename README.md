@@ -7,3 +7,6 @@ Script per l'installazione manuale dell'app Portale Aziendale
 - Sono necessari i privilegi di amministratore.
 
 Sorgenti file e dipendenze da: store.rg-adguard.net
+
+All trademarks are trademarks of their respective owners (Logos,Names,Sources). (Microsoft Corporation)
+
